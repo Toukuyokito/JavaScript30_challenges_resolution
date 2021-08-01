@@ -40,11 +40,12 @@ Le challenge du jour 1 consiste en la création d'un kit musical.
 
 La particularité de ce challenge est que les appuis des touches du clavier sont écoutés pour déclencher les animations et les bruitages.
 
-<img src="medias/day1-touche-A.png" style="display: block; margin-left:12px; margin-top:10px">
+<img src="medias/day1-touche-A.png" style="display: block; margin-left:12px; margin-top:10px" loading="lazy">
 
 Ci-dessus nous pouvons voir un conteneur représentant notre touche et le bruitage qui vas être produit si la touche **a** est appuyée.
 ## 5.2. Démonstration
-<video src="medias/day1-demo.mp4">
+<img src="medias/day1-demo.gif" style="width=50%; display: block;">
+
 # 6. jour 2
 ## 6.1. Description
 ## 6.2. Démonstration
