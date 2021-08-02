@@ -24,7 +24,7 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 1 kit musical](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day1)
   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day1)
   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day1) 
-- [jour 2 horloge](ttps://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day2)
+- [jour 2 horloge](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day2)
   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day2)
   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day2)
 - [jour 3 variables CSS](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day3)
