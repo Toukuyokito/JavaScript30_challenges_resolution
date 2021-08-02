@@ -38,3 +38,5 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 6 moteur de recherche](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day6)
   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day6)
   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day6)
+- [jour 7 manipulation tableau 2](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day7)
+  - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day7)
