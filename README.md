@@ -40,3 +40,5 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day6)
 - [jour 7 manipulation tableau 2](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day7)
   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day7)
+- [jour 8 dessin sur une toile](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day8)
+  - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day8)
