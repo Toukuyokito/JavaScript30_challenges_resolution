@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+<body>
+
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    const p = document.querySelector("p");
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Regular
+    console.log("Hello");
+    
+    // Interpolated
+    console.log("Hello %s", "! How are you ?")
+    
+    let answer = "I'm fine !"
+    console.log(`${answer}`);
+
+    // Styled
+    const style = "color: green"
+    console.log("%cI'm green ", style);
+
+    // warning!
+    console.warn("warning :c");
+
+    // Error :|
+    console.error("Error ;_;");
+
+    // Info
+    console.info("Blue is a color.")
+
+    // Testing
+    console.assert(1+1 === 3, "False");
+    console.log("After an assert the code still running");
+
+    if (prompt("Clear the console y/N?") === "y") console.clear();
+    // clearing
+
+
+    // Viewing DOM Elements
+    console.dir(p);
+    
+    // Grouping together
+    console.group("var");
+    console.log("1");
+    console.log("2");
+    console.log("3");
+    console.groupEnd();
+    // counting
+
+    for(let i; i < 10; ++i)
+    {
+      console.count("Hello");
+    }
+    // timing
+    
+    console.time("Fetch linux git");
+    let linuxGit;
+    fetch("https://github.com/torvalds/linux")
+    .then(blob => blob.json())
+    .then(data => data = linuxGit);
+    
+    console.timeEnd("Fetch linux git");
+
+  </script>
+</body>
+</html>

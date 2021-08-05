@@ -42,3 +42,10 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day7)
 - [jour 8 dessin sur une toile](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day8)
   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day8)
+  - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day8)
+- [jour 9 meilleur utilisation de la console web](https://github.com/Toukuyokito/-JavaScript30_challenges_resolution/tree/main/day9)
+  - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day9)
+- [jour 10 coche multiple de checkbox ](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day10)
+    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day10)
+    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day10)
+ 
