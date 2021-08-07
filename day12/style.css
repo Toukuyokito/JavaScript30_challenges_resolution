@@ -1,0 +1,42 @@
+html {
+    margin: auto;
+
+}
+body { 
+    text-align: center;
+}
+
+
+@keyframes graduate-hue {
+    from{
+        color: hsl(4, 50%, 50%);
+        transform: rotate(0deg);
+    }
+    33% {
+        color: hsl(61, 62%, 55%);
+    }
+    66% {
+        color: hsl(113, 62%, 55%);
+    }
+    99% {
+        color: hsl(177, 62%, 55%);
+        
+    }
+    to {
+        color: hsl(244, 62%, 55%);
+        transform: rotate(359deg);
+    }
+}
+
+h1 {
+    display: none;
+    margin-top: 0;
+    font-size: 10em;
+
+}
+
+p {
+    margin-top: 4em;
+    font-size: 2em;
+}
+

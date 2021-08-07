@@ -51,4 +51,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 11 Lecteur vidéo personnalisé](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day11)
     - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day11)
     - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day11)
- 
+- [jour 12 mise en place d'un easter egg](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day12)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day12)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day12)
