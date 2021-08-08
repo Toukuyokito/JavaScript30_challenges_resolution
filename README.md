@@ -54,3 +54,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 12 mise en place d'un easter egg](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day12)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day12)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day12)
+- [jour 13 Affichage d'image pendant le scroll](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day13)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day13)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day13)
