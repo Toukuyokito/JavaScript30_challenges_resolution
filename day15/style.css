@@ -1,3 +1,7 @@
+:root {
+  --background: rgba(255, 255, 255, 0.95);
+}
+
 html {
   box-sizing: border-box;
   background: url("oh-la-la.jpeg") center no-repeat;
@@ -28,7 +32,7 @@ svg {
 .wrapper {
   padding: 20px;
   max-width: 350px;
-  background: rgba(255, 255, 255, 0.95);
+  background: var(--background);
   box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -78,4 +82,10 @@ h2 {
   padding: 10px;
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+ .plates button{
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
 }
