@@ -60,3 +60,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 14 Copie contre référence](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day14)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day14)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day14)
+- [jour 15 Stockage côté client](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day15)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day15)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day15)
