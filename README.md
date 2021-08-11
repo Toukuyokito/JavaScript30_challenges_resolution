@@ -63,3 +63,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 15 Stockage côté client](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day15)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day15)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day15)
+- [jour 16 Ombre dynamique](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day16)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day16)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day16)
