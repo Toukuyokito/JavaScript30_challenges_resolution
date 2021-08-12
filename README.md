@@ -66,3 +66,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 16 Ombre dynamique](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day16)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day16)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day16)
+- [jour 17 Trie alphabétique en ignorant les articles](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day17)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day17)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day17)
