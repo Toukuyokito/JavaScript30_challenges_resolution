@@ -1,0 +1,57 @@
+body {
+    margin: 0%;
+    background-image: url(Pentacon-Six-TL-vintage-camera.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.container {
+    height: 80vh;
+    width: 15vw;
+    display: flex;
+    flex-direction: column;
+    outline: 6px solid rgba(199, 199, 199, 0.425);
+    padding: 0%;
+    overflow-y: scroll;
+
+}
+
+.container > li {
+    color: rgb(29, 29, 29);
+    background-color: rgb(231, 228, 228);
+    list-style-position: inside;
+    list-style-type: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: content-box;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2vw;
+
+}
+
+.container > li::before {
+    content: url() ;
+    background-image: url(video-svgrepo-com.svg) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display:inline-block;
+    width: 1.5vw;
+    margin: 15px 10px 0 0;     
+}
+
+button {
+    color: rgb(34, 34, 33);
+    font-size: 1vw;
+    padding: 5px;
+}
+
+p {
+    font-size: 1.5vw;
+    display: inline;
+    background-color: white;
+}

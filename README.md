@@ -69,3 +69,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 17 Trie alphabétique en ignorant les articles](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day17)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day17)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day17)
+- [jour 18 Somme de valeurs temporelles](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day18)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day18)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day18)
