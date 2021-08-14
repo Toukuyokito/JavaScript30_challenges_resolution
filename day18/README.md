@@ -3,6 +3,7 @@
 Le challenge du jour 18 consiste à sommer des valeurs temporelles.
 
 Chaque valeur est définie dans un attribut personnalisé nommés data-time.
+
 <img src="https://user-images.githubusercontent.com/67798835/129333252-c2d2321b-cf30-47fb-91a0-21a942e126c7.png" style="display: block;">
 
 Les valeurs sont parcourut transformée en seconde. La somme total en secondes est convertie en heure, minutes, secondes.
