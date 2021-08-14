@@ -72,3 +72,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 18 Somme de valeurs temporelles](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day18)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day18)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day18)
+- [jour 19 Exploitation du flux vidéo d'une caméra](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day19)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day19)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day19)
