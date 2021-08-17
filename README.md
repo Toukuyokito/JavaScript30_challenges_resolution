@@ -78,3 +78,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 20 Reconnaissance vocale](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day20)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day20)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day20)
+- [jour 21 Géolocalisation](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day21)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day21)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day21)
