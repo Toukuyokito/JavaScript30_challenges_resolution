@@ -81,3 +81,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 21 Géolocalisation](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day21)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day21)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day21)
+- [jour 22 Surligneur de liens](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day22)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day22)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day22)
