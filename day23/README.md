@@ -9,6 +9,7 @@ L'objet SpeechSynthesisUtterance sert pour configurer la langue, la vitesse, le 
 
 Tandis que l'objet speechSynthesis permet de lancer, arrêter et mettre en pause la lecture.
 ## Démonstration
+L'API étant encore au stade expérimental, il vous faudra peut-être recharger la page.
 https://website.toukuyokito.ovh/speechSynthesis/
 
 
