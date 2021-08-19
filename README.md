@@ -84,3 +84,7 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 22 Surligneur de liens](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day22)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day22)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day22)
+- [jour 23 Synthèse vocale](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day23)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day23)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day23)
+   - 
