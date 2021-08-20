@@ -87,4 +87,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 23 Synthèse vocale](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day23)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day23)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day23)
-   - 
+- [jour 24 Barre de navigation collante](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day24)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day24)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day24)  
