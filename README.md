@@ -90,3 +90,7 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 24 Barre de navigation collante](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day24)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day24)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day24)  
+- [jour 25 Propagation d'événements](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day25)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day25)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day25)  
+  

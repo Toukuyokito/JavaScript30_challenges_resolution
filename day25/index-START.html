@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Understanding JavaScript's Capture</title>
+</head>
+<body class="bod">
+
+  <div class="one">
+    <div class="two">
+      <div class="three">
+      </div>
+    </div>
+  </div>
+
+<style>
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after { 
+    box-sizing: inherit; 
+  }
+
+  div {
+    width: 100%;
+    padding: 100px;
+  }
+
+  .one {
+    background: thistle;
+  }
+
+  .two {
+    background: mistyrose;
+  }
+
+  .three {
+    background: coral;
+  }
+</style>
+
+<button></button>
+<script>
+const divs = document.querySelectorAll("div");
+
+function logText(event)
+{
+  event.stopPropagation();
+  console.log(this);
+  console.log(event.target.classList.value);
+  
+}
+
+
+
+/*
+{capture : } if false the event will start spread from it to the last parent with the same event listen.
+             otherwise from the parent to the element whitch triggered the event
+*/
+divs.forEach(div => div.addEventListener("click", logText));
+
+
+//{once: true} The event will be unListen after once
+document.querySelector("button")
+        .addEventListener("click",
+                          () => console.log("Hello"),
+                          {once: true});
+
+</script>
+</body>
+</html>
