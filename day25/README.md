@@ -22,6 +22,6 @@ Dans la fonction de callback on stop la propagation grâce à **event.stopPropag
 ### Cas 4
 Dans la fonction de callback on stop la propagation grâce à **event.stopPropagation()** et on spécifie **l'option capture à true**, puis on clique sur la div 3 : seule la div 1 réagie à notre clique.
 
-#### Expliquation du cas 4
+#### Explication du cas 4
 1. L'événement se propage de la div 1 à la div 3 grâce à l'option capture à true
 2. La propagation est stoppée dès l'appel de la fonction de callback grâce à event.stopPropagation() 
