@@ -93,4 +93,8 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 25 Propagation d'événements](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day25)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day25)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day25)  
+- [jour 26 Barre de navigation élégante](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day26)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day26)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day26)
+  
   
