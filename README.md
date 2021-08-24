@@ -96,5 +96,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 26 Barre de navigation élégante](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day26)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day26)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day26)
-  
-  
+- [jour 27 Navigation horizontale dans un conteneur](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day27)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day27)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day27)
