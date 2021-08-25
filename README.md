@@ -99,3 +99,6 @@ Ce choix technique a été fait pour que la page principale ne soit pas longue �
 - [jour 27 Navigation horizontale dans un conteneur](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day27)
    - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day27)
    - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day27)
+- [jour 28 Contrôleur de vitesse personnalise pour vidéo.](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day28)
+   - [Description](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day28)
+   - [Démonstration](https://github.com/Toukuyokito/JavaScript30_challenges_resolution/tree/main/day28)
